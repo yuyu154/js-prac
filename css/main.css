@@ -1,0 +1,13 @@
+.js-showing {
+    color : blue;
+    display : block;
+}
+
+.js-form,
+.greeting {
+    display : none;
+}
+
+.showing {
+    display : block;
+}
