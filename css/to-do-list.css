@@ -1,0 +1,16 @@
+.to-do-list {
+    align-content : center;
+    align: center;
+}
+
+.showing {
+    display : block;
+}
+
+ul {
+    list-style : none;
+}
+
+.option {
+    padding : 20px;
+}
